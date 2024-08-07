@@ -7,4 +7,4 @@
 ## Assignment 3
 ***Colab***: https://colab.research.google.com/drive/1CuZ222w3OYQLz4I8oNFwN1iDsBxDa2-6
 ## Assignment 4
-***Colab***:https://colab.research.google.com/drive/1aC0FLLSvjv0TquPS08dLN_rb6yALCzvs
+***Colab с графиками BERTTopic***:https://colab.research.google.com/drive/1JMOLBFxJdo_l16QPjGn_nylu5u0fWxrF
